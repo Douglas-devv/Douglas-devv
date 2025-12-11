@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Estou quase me formando na área de tecnologia da informação, Atualmente faço cursos pra me tornar desenvolvedor web Front-end, experiente nas tecnologias JavaScript.<br><br>No momento o meu foco principal e atua na área de desenvolvedor web com as experiencias que eu tenho em desenvolver sites modernos conseguiria atua na área com bastante facilidade.<br><br>Amo fazer o que eu faço e sempre busco aprimorar as minhas habilidades todos os dias. 👨‍💻</p>
+<p align="center">Estou quase me formando na área de tecnologia da informação, Atualmente faço cursos pra me tornar desenvolvedor web Front-end, experiente nas tecnologias JavaScript.<br><br>No momento o meu foco principal e atua na área de desenvolvedor web com as experiencias que eu tenho em desenvolver sites modernos conseguiria atua na área com bastante facilidade.<br><br>Amo fazer o que eu faço e sempre busco aprimorar as minhas habilidades todos os dias. 👨‍💻</p>
 
 ###
 
